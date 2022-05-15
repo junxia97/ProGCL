@@ -1,2 +1,2 @@
 # ProGCL
-[ICML 2022] "ProGCL: Rethinking Hard Negative Mining in Graph Contrastive Learning"
+[ICML 2022] "ProGCL: Rethinking Hard Negative Mining in Graph Contrastive Learning" We will released the official codes and the camerady version of our paper before 16th June.
