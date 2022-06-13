@@ -1,4 +1,4 @@
-# ProGCL: Rethinking Hard Negative Mining in Graph Contrastive Learning
+# ProGCL: Rethinking Hard Negative Mining in Graph Contrastive Learning (ICML 2022)
 PyTorch implementation for [ProGCL: Rethinking Hard Negative Mining in Graph Contrastive Learning](https://arxiv.org/abs/2110.02027) accepted by ICML 2022.
 ## Requirements
 * Python 3.7.4
