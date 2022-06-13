@@ -14,6 +14,10 @@ ProGCL-mix:
 ```
 python train.py --device cuda:0 --dataset Amazon-Computers --param local:amazon-computers.json --mode mix
 ```
+## Useful resources for Pretrained Graphs Neural Networks
+* The first comprehensive survey on this topic: [A Survey of Pretraining on Graphs: Taxonomy, Methods, and Applications](https://arxiv.org/abs/2202.07893v1)
+* [A curated list of must-read papers, open-source pretrained models and pretraining datasets.](https://github.com/junxia97/awesome-pretrain-on-graphs)
+
 ## Citation
 ```
 @inproceedings{xia2022progcl,
@@ -24,6 +28,3 @@ python train.py --device cuda:0 --dataset Amazon-Computers --param local:amazon-
   organization={PMLR}
 }
 ```
-## Useful resources for Pretrained Graphs Neural Networks
-* The first comprehensive survey on this topic: [A Survey of Pretraining on Graphs: Taxonomy, Methods, and Applications](https://arxiv.org/abs/2202.07893v1)
-* [A curated list of must-read papers, open-source pretrained models and pretraining datasets.](https://github.com/junxia97/awesome-pretrain-on-graphs)
